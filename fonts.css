@@ -99,9 +99,39 @@
     font-style: normal
 }
 
-
-/* FigeronaVF */
 @font-face {
-	font-family: "Figerona-VF";
-	src: url('https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/FigeronaVF/Figerona-VF.ttf') format("truetype");
+    font-family: "Figerona-VF";
+    src: url('https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/FigeronaVF/Figerona-VF.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Orbitron Black";
+    src: url("https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/Orbitron/orbitron-black.otf") format("opentype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "SA Fonts";
+    src: url("https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/SAfonts/SAfonts-Regular.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "BankGothic";
+    src: url("https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/BankGothic/BankGothicRUSSMedium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "PricedownRus";
+    src: url("https://raw.githubusercontent.com/AlcantaraMods/fonts/refs/heads/main/Pricedown/PricedownRus.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
